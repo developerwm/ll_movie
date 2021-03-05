@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movie_list.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/fragment_movie_list.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/movie_list_item.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/movie_list_item.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_general_detail.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/fragment_general_detail.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_cast.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/fragment_cast.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reviews.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/fragment_reviews.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_detail.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/content_detail.xml"
+    },
+    {
+        "merged": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/taua/AndroidStudioProjects/testBora/Taua/app/src/main/res/layout/activity_detail.xml"
+    }
+]

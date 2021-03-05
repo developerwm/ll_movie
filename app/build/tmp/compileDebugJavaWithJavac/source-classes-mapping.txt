@@ -1,0 +1,57 @@
+com/tauat1/app/persistence/MovieDB_Impl.java
+ com.tauat1.app.persistence.MovieDB_Impl
+ com.tauat1.app.persistence.MovieDB_Impl$1
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/tauat1/BuildConfig.java
+ com.tauat1.BuildConfig
+com/tauat1/SecondFragmentArgs.java
+ com.tauat1.SecondFragmentArgs
+ com.tauat1.SecondFragmentArgs$1
+ com.tauat1.SecondFragmentArgs$Builder
+com/tauat1/DataBindingInfo.java
+ com.tauat1.DataBindingInfo
+com/tauat1/databinding/MovieListItemBinding.java
+ com.tauat1.databinding.MovieListItemBinding
+com/tauat1/FirstFragmentDirections.java
+ com.tauat1.FirstFragmentDirections
+ com.tauat1.FirstFragmentDirections$1
+ com.tauat1.FirstFragmentDirections$ActionFirstFragmentToSecondFragment
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/tauat1/ui/Second2FragmentDirections.java
+ com.tauat1.ui.Second2FragmentDirections
+com/tauat1/DataBinderMapperImpl.java
+ com.tauat1.DataBinderMapperImpl
+ com.tauat1.DataBinderMapperImpl$InnerBrLookup
+ com.tauat1.DataBinderMapperImpl$InnerLayoutIdLookup
+com/tauat1/databinding/FragmentMovieListBinding.java
+ com.tauat1.databinding.FragmentMovieListBinding
+com/tauat1/generated/callback/OnClickListener.java
+ com.tauat1.generated.callback.OnClickListener
+ com.tauat1.generated.callback.OnClickListener$Listener
+com/tauat1/ui/Second2FragmentArgs.java
+ com.tauat1.ui.Second2FragmentArgs
+ com.tauat1.ui.Second2FragmentArgs$1
+ com.tauat1.ui.Second2FragmentArgs$Builder
+com/tauat1/BR.java
+ com.tauat1.BR
+com/tauat1/databinding/MovieListItemBindingImpl.java
+ com.tauat1.databinding.MovieListItemBindingImpl
+com/tauat1/ui/First2FragmentDirections.java
+ com.tauat1.ui.First2FragmentDirections
+ com.tauat1.ui.First2FragmentDirections$1
+ com.tauat1.ui.First2FragmentDirections$ActionFirst2FragmentToSecond2Fragment
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/tauat1/databinding/FragmentMovieListBindingImpl.java
+ com.tauat1.databinding.FragmentMovieListBindingImpl
+com/tauat1/SecondFragmentDirections.java
+ com.tauat1.SecondFragmentDirections
+com/tauat1/app/persistence/dao/MovieAndDetailDao_Impl.java
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl$1
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl$2
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl$3
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl$4
+ com.tauat1.app.persistence.dao.MovieAndDetailDao_Impl$5

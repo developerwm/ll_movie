@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph2.xml","javaFiles":["com.tauat1.ui.First2FragmentDirections","com.tauat1.ui.Second2FragmentDirections","com.tauat1.ui.Second2FragmentArgs"]},{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.tauat1.FirstFragmentDirections","com.tauat1.SecondFragmentDirections","com.tauat1.SecondFragmentArgs"]}]
